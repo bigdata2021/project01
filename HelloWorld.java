@@ -7,6 +7,7 @@ Class HelloWorld {
 		System.out.println("测试添加一行代码！");
 	        System.out.println("bigdata01子分支，添加添加一行代码！");
                 System.out.println("coder-lisi用户，添加一行代码！");
+		System.out.println("coder-wangwu用户，添加一行代码！");
 	}
 	
 }
